@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="banner_compact.png" width="100%" height="150" style="object-fit: cover; border-radius: 12px;" alt="Jatin Kurrey Banner" />
+  <img src="banner_divider.png" width="100%" height="50" style="object-fit: cover;" alt="Jatin Kurrey Banner" />
 </p>
 <table align="center">
   <tr>
-    <td align="center" width="200">
-      <img src="profile.png" width="180" style="border-radius: 24px; border: 2px solid #323330;" alt="Jatin Kurrey" />
+    <td align="center" width="150">
+      <img src="profile.png" width="130" style="border-radius: 20px; border: 2px solid #323330;" alt="Jatin Kurrey" />
     </td>
     <td width="500" style="padding-left: 20px;">
       <h1>Jatin Kurrey</h1>
