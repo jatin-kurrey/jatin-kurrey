@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="banner_minimal.png" width="100%" alt="Jatin Kurrey Banner" />
+  <img src="banner_compact.png" width="100%" height="150" style="object-fit: cover; border-radius: 12px;" alt="Jatin Kurrey Banner" />
 </p>
-
 <table align="center">
   <tr>
     <td align="center" width="200">
@@ -19,8 +18,6 @@
     </td>
   </tr>
 </table>
-
----
 
 ### 🚀 About Me
 I am a **B.Tech CSE student** at Shri Shankaracharya Professional University, specializing in **Artificial Intelligence**. I combine strong technical foundations with a creative **"vibe coding"** approach, leveraging modern AI to ship software at the speed of thought.
